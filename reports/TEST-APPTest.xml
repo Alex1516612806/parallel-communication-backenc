@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="APP Test" errors="0" tests="9" failures="0" time="1.427" timestamp="2021-11-18T19:39:43">
+  <testcase classname="APP Test" name="register new user" time="1.002"></testcase>
+  <testcase classname="APP Test" name="login user" time="0.055"></testcase>
+  <testcase classname="APP Test" name="GetHeadline" time="0.055"></testcase>
+  <testcase classname="APP Test" name="GetHeadlineWithUsername" time="0.044"></testcase>
+  <testcase classname="APP Test" name="PutHeadline" time="0.056"></testcase>
+  <testcase classname="APP Test" name="Post Article" time="0.046"></testcase>
+  <testcase classname="APP Test" name="GetArticle" time="0.1"></testcase>
+  <testcase classname="APP Test" name="GetArticleWithId" time="0.055"></testcase>
+  <testcase classname="APP Test" name="Logout" time="0.011"></testcase>
+</testsuite>
+</testsuites>
